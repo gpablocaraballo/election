@@ -1,0 +1,19 @@
+{
+    "cod":"0",
+    "msg":"OK",
+    "entity":
+    [
+        {
+            "nombre":"Todos los municipios",
+            "id":"0"
+        },
+        {
+            "nombre":"25 de Mayo",
+            "id":"1"
+        },
+        {
+            "nombre":"9 de Julio",
+            "id":"2"
+        }
+    ]  
+}

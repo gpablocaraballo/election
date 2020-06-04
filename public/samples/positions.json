@@ -1,0 +1,15 @@
+{
+    "cod":"0",
+    "msg":"OK",
+    "entity":
+    [
+        {
+            "nombre":"Gobernador",
+            "id":"1"
+        },
+        {
+            "nombre":"Diputado",
+            "id":"2"
+        }
+    ]  
+}

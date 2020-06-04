@@ -1,0 +1,67 @@
+{
+    "cod":"0",
+    "msg":"OK",
+    "entity":
+    {
+        "agrupaciones":
+        [
+            {
+                "lista":"900-FRENTE RENOVADOR DE LA CONCORDIA",
+                "votos":"236786",
+                "porcentaje":"36"
+            },
+            {
+                "lista":"901-JUNTOS POR EL CAMBIO",
+                "votos":"56288",
+                "porcentaje":"8.68"
+            },
+            {
+                "lista":"902-FRENTE POPULAR AGRARIO Y SOCIAL ",
+                "votos":"25814",
+                "porcentaje":"3.98"
+            },
+            {
+                "lista":"71-PARTIDO DEL OBRERO",
+                "votos":"4969",
+                "porcentaje":"0.76"
+            }
+        ],
+        "totales":[
+            {"nombre":"VOTOS POSITIVOS","votos":"323858","porcentaje":"47.52"},
+            {"nombre":"VOTOS EN BLANCO","votos":"13287","porcentaje":"1.95"},
+            {"nombre":"VOTOS OBSERVADOS","votos":"3597","porcentaje":"0.53"}
+        ],
+        "mesasyvotantes":
+        {
+            "mesashab":
+            {
+                "total":"2736",
+                "escrutadas":{
+                    "total":"2707",
+                    "porcentaje":"98.94"
+                },
+                "incidencia":{
+                    "total":"29",
+                    "porcentaje":"1.06"
+                },
+                "pendientes":{
+                    "total":"0",
+                    "porcentaje":"0"
+                }
+            },
+            "votanteshab":
+            {
+                "total":"918786",
+                "escrutadas":{
+                    "total":"681485",
+                    "porcentaje":"74.17"
+                },
+                "impugnadas":{
+                    "total":"255",
+                    "porcentaje":"0.03"
+                }
+            }
+        },
+        "porcmesasescrutadas":"75.50"
+    }
+}

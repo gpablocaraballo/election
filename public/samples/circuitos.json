@@ -1,0 +1,23 @@
+{
+    "cod":"0",
+    "msg":"OK",
+    "entity":
+    [
+        {
+            "nombre":"Todos los circuitos",
+            "id":"0"
+        },
+        {
+            "nombre":"1 - POSADAS",
+            "id":"1"
+        },
+        {
+            "nombre":"10 - APOSTOLES",
+            "id":"2"
+        },
+        {
+            "nombre":"20 - LORETO",
+            "id":"3"
+        }
+    ]  
+}

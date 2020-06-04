@@ -1,0 +1,88 @@
+{
+    "cod":"0",
+    "msg":"OK",
+    "entity":
+    [
+        {
+            "departamento":"CAPITAL",
+            "municipio":"MUNI MISIONES",
+            "mesa":"3691",
+            "tipo":"MIX",
+            "establecimiento":"COLEGIO MUNI MISIONES",
+            "detalle":"No legible",
+            "telegrama":"2202701560X0101"
+        },
+        {
+            "departamento":"IGUAZU",
+            "municipio":"MUNI IGUAZU",
+            "mesa":"3692",
+            "tipo":"MIX",
+            "establecimiento":"COLEGIO INTERIOR IGUAZU",
+            "detalle":"Faltan firmas",
+            "telegrama":"2202701504X0101"
+        },
+        {
+            "departamento":"ELDORADO",
+            "municipio":"MUNI ELDORADO",
+            "mesa":"3693",
+            "tipo":"MIX",
+            "establecimiento":"COLEGIO MUNI ELDORADO",
+            "detalle":"No legible",
+            "telegrama":"2202701560X0101"
+        },
+        {
+            "departamento":"MONTECARLO",
+            "municipio":"MUNI MONTECARLO",
+            "mesa":"3694",
+            "tipo":"MIX",
+            "establecimiento":"COLEGIO MUNI MONTECARLO",
+            "detalle":"Total de electores superado",
+            "telegrama":"2202701560X0101"
+        },
+        {
+            "departamento":"SAN PEDRO",
+            "municipio":"MUNI SAN PEDRO",
+            "mesa":"3695",
+            "tipo":"MIX",
+            "establecimiento":"COLEGIO SAN PEDRO",
+            "detalle":"No legible",
+            "telegrama":"2202701560X0101"
+        },
+        {
+            "departamento":"SAN PEDRO",
+            "municipio":"MUNI SAN PEDRO",
+            "mesa":"3696",
+            "tipo":"MIX",
+            "establecimiento":"COLEGIO SAN PEDRO",
+            "detalle":"No legible",
+            "telegrama":"2202701560X0101"
+        },
+        {
+            "departamento":"SAN PEDRO",
+            "municipio":"MUNI SAN PEDRO",
+            "mesa":"3697",
+            "tipo":"MIX",
+            "establecimiento":"COLEGIO SAN PEDRO",
+            "detalle":"No legible",
+            "telegrama":"2202701560X0101"
+        },
+        {
+            "departamento":"SAN PEDRO",
+            "municipio":"MUNI SAN PEDRO",
+            "mesa":"3698",
+            "tipo":"MIX",
+            "establecimiento":"COLEGIO SAN PEDRO",
+            "detalle":"No legible",
+            "telegrama":"2202701560X0101"
+        },
+        {
+            "departamento":"SAN PEDRO",
+            "municipio":"MUNI SAN PEDRO",
+            "mesa":"3699",
+            "tipo":"MIX",
+            "establecimiento":"COLEGIO SAN PEDRO",
+            "detalle":"No legible",
+            "telegrama":"2202701560X0101"
+        }
+    ]    
+}

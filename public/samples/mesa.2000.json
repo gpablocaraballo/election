@@ -1,0 +1,101 @@
+{
+    "cod":"0",
+    "msg":"OK",
+    "entity":
+    {
+        "ntelegramacodigo":"1401302000X0101",
+        "mesaId":"2000",
+        "tipomesa":"MIX",
+        "establecimiento":"ESC. Nº 831",
+        "ubicacion":" Bº SAN ROQUE GONZALEZ AL LADO DEL CIC-S/N ( Municipio: SAN VICENTE)",
+        "cargos":[
+            "GOBERNADOR","DIPUTADO","INTENDENTE"
+        ],
+        "listas":[
+            [
+                "71-PARTIDO DEL OBRERO",
+                "3",
+                "3",
+                ""
+            ],
+            [
+                "900-FRENTE RENOVADOR DE LA CONCORDIA",
+                "128",
+                "125",
+                ""
+            ],
+            [
+                "......900 A POR LA GENTE TODO",
+                "",
+                "",
+                "2"
+            ],
+            [
+                "......900 B TRABAJAR HACER CRECER",
+                "",
+                "",
+                "7"
+            ],
+            [
+                "......900 D VAMOS POR UN BUEN CAMINO",
+                "",
+                "",
+                "8"
+            ],
+            [
+                "901-JUNTOS POR EL CAMBIO",
+                "21",
+                "20",
+                ""
+            ],
+            [
+                "......901 C PROTAGONISTAS DE LA NUEVA GENERACION POLITICA",
+                "",
+                "",
+                "12"
+            ],
+            [
+                "......901 Ñ TE QUIERO MEJOR",
+                "",
+                "",
+                "2"
+            ],
+            [
+                "902-FRENTE POPULAR AGRARIO Y SOCIAL",
+                "113",
+                "112",
+                ""
+            ],
+            [
+                "......902 M VAMOS POR EL GRAN SUEÑO",
+                "",
+                "",
+                "79"
+            ],
+            [
+                "......902 N HONESTIDAD, TRABAJO Y FUTURO",
+                "",
+                "",
+                "0"
+            ],
+            [
+                "......902 O DIGNIDAD AGRARIA",
+                "",
+                "",
+                "2"
+            ],
+            [
+                "VOTOS EN BLANCO",
+                "8",
+                "8",
+                "5"
+            ],
+            [
+                "VOTOS OBSERVADOS",
+                "2",
+                "2",
+                "2"
+            ]
+        ]
+    }
+}
