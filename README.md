@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##This project is for educational purpuse, this demo use redux to manage ajax requests in one of the main componente (generalresult), this behavior was possible using redux-thunk middleware.
+##This project is for educational purpuse, this demo use redux to manage ajax requests in one of the main component (generalresult), this behavior was possible using redux-thunk middleware.
 ##Este proyecto es para fines educativos, esta demostración usa redux para administrar las solicitudes de ajax en uno de los componentes principales (resultado general), este comportamiento fue posible usando el middleware redux-thunk.
 ##Author GCar
 
